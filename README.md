@@ -2,6 +2,9 @@
 
 Small demo app for a lightning talk at a meetup.
 
+Final result can be seen here deployed here: https://svelte-tailwind-multistream-demo-r5xazv4qy.vercel.app  
+(Ctrl+N to create new streams)
+
 Built from this template:
 
 ```bash
