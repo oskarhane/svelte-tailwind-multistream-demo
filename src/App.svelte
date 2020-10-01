@@ -27,7 +27,7 @@
         { id: counter++, frames: [] },
     ];
     function addFrame(index) {
-        streams[index].frames.unshift({ id: counter, command: `RETURN ${counter++}` });
+        streams[index].frames.unshift({ id: counter++, command: `RETURN ${counter++}` });
         streams = streams;
     }
     function deleteFrame(streamIndex, frameIndex) {
